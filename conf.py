@@ -1,8 +1,6 @@
 {
-    "mysql":{
-        "host":"localhost",
-        "user":"root",
-        "passwd":"my secret password",
-        "db":"write-math"
+    "hunt40":{
+        "current_time_window":"1",
+        "history_time_window":"3",
     }
 }
