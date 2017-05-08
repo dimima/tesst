@@ -1,6 +1,7 @@
-[SectionOne]
-Status: Single
-Name: Derek
-Value: Yes
-Age: 30
-Single: True
+{
+    "mysql":{
+        "host":"localhost",
+        "user":"root",
+        "passwd":"my secret password",
+        "db":"write-math"
+    }
